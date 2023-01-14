@@ -1,0 +1,15 @@
+C:\Users\Дом\source\repos\final-work\bin\Debug\net7.0\final-work.exe
+C:\Users\Дом\source\repos\final-work\bin\Debug\net7.0\final-work.deps.json
+C:\Users\Дом\source\repos\final-work\bin\Debug\net7.0\final-work.runtimeconfig.json
+C:\Users\Дом\source\repos\final-work\bin\Debug\net7.0\final-work.dll
+C:\Users\Дом\source\repos\final-work\bin\Debug\net7.0\final-work.pdb
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.csproj.AssemblyReference.cache
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.AssemblyInfoInputs.cache
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.AssemblyInfo.cs
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.dll
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\refint\final-work.dll
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.pdb
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\final-work.genruntimeconfig.cache
+C:\Users\Дом\source\repos\final-work\obj\Debug\net7.0\ref\final-work.dll
